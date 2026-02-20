@@ -6,7 +6,7 @@
     "quality": "High",
     "quantity": 3,
     "image": "https://linkimmagine.com/dell7490.jpg",
-     "price":"70000",
+    "price":"70000",
     "tags": "grafica,design,ufficio"
   },
   {
@@ -16,11 +16,12 @@
     "quality": "Medium",
     "quantity": 5,
     "image": "https://linkimmagine.com/hp15.jpg",
-     "price":"150000",
+    "price":"150000",
     "tags": "ufficio"
   }
 
 ]
+
 
 
 

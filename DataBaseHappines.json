@@ -2,11 +2,11 @@
   {
     "id": "1",
     "name": "Dell 7490",
-    "category": "Computer",
+    "category": "phone",
     "quality": "High",
     "quantity": 3,
     "image": "https://linkimmagine.com/dell7490.jpg",
-     "price":"500000",
+     "price":"70000",
     "tags": "grafica,design,ufficio"
   },
   {
@@ -19,4 +19,5 @@
      "price":"150000",
     "tags": "ufficio"
   }
+
 ]

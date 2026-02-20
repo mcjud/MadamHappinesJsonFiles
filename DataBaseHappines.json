@@ -20,5 +20,40 @@
     "tags": "ufficio"
   }
 
+  {
+    "id": "PC001",
+    "name": "Dell Latitude 7490",
+    "category": "Computer",
+    "use": ["grafica", "design", "ufficio"],
+    "quality": "High",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Intel HD",
+    "price_level": "medium",
+    "quantity": 3
+  },
+  {
+    "id": "PC002",
+    "name": "HP 15",
+    "category": "Computer",
+    "use": ["ufficio", "studio"],
+    "quality": "Medium",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Intel HD",
+    "price_level": "low",
+    "quantity": 5
+  },
+  {
+    "id": "FR001",
+    "name": "LG Freezer 200L",
+    "category": "Freezer",
+    "use": ["casa", "negozio"],
+    "quality": "High",
+    "price_level": "medium",
+    "quantity": 2
+  }
+
 ]
+
 

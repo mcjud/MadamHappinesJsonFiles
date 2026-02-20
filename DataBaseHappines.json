@@ -18,8 +18,7 @@
     "image": "https://linkimmagine.com/hp15.jpg",
      "price":"150000",
     "tags": "ufficio"
-  }
-
+  },
   {
     "id": "PC001",
     "name": "Dell Latitude 7490",
@@ -55,5 +54,6 @@
   }
 
 ]
+
 
 

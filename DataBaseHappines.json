@@ -3,20 +3,27 @@
     "id": "PC001",
     "name": "Dell Latitude 7490",
     "category": "Computer",
+    "use": ["grafica", "design", "ufficio"],
     "quality": "High",
-    "quantity": 3,
-    "image": "",
-    "tags": "grafica,design"
+    "ram": 16,
+    "quantity": 3
   },
   {
     "id": "PC002",
     "name": "HP 15",
     "category": "Computer",
+    "use": ["ufficio", "studio"],
     "quality": "Medium",
-    "quantity": 5,
-    "image": "",
-    "tags": "ufficio"
+    "ram": 8,
+    "quantity": 5
+  },
+  {
+    "id": "FR001",
+    "name": "LG Freezer 200L",
+    "category": "Freezer",
+    "use": ["casa", "negozio"],
+    "quality": "High",
+    "ram": 0,
+    "quantity": 2
   }
 ]
-
-

@@ -1,28 +1,22 @@
 [
   {
-    "id": "1",
-    "name": "Dell 7490",
-    "category": "computer",
+    "id": "PC001",
+    "name": "Dell Latitude 7490",
+    "category": "Computer",
     "quality": "High",
     "quantity": 3,
-    "image": "https://linkimmagine.com/dell7490.jpg",
-    "price":"70000",
-    "tags": "grafica,design,ufficio"
+    "image": "",
+    "tags": "grafica,design"
   },
   {
-    "id": "2",
+    "id": "PC002",
     "name": "HP 15",
     "category": "Computer",
     "quality": "Medium",
     "quantity": 5,
-    "image": "https://linkimmagine.com/hp15.jpg",
-    "price":"150000",
+    "image": "",
     "tags": "ufficio"
   }
-
 ]
-
-
-
 
 

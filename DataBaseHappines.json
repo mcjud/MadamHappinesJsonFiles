@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Dell 7490",
-    "category": "phone",
+    "category": "computer",
     "quality": "High",
     "quantity": 3,
     "image": "https://linkimmagine.com/dell7490.jpg",
@@ -21,3 +21,4 @@
   }
 
 ]
+

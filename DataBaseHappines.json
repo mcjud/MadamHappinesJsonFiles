@@ -20,7 +20,6 @@
     "synonyms": ["laptop","computer","portable computer"],
     "tags": ["office","school","work","computer"]
   },
-
   {
     "id": "frz_small_001",
     "name": "Small Freezer",
@@ -32,7 +31,6 @@
     "synonyms": ["small freezer","mini freezer","home freezer"],
     "tags": ["home","food","electricity"]
   },
-
   {
     "id": "tv_standard_001",
     "name": "LED TV",
@@ -43,6 +41,4 @@
     "synonyms": ["tv","television","led tv"],
     "tags": ["home","entertainment","electronics"]
   }
-
 ]
-

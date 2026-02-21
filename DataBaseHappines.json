@@ -7,7 +7,7 @@
     "quality": "fuel efficient",
     "quantity": 6,
     "image": "generator_small.png",
-    "price":"32000",
+    "price": 32000,
     "synonyms": [
       "small generator",
       "mini generator",
@@ -16,7 +16,7 @@
       "generator for room",
       "small gen",
       "light generator",
-      "generator for TV",
+      "generator for tv",
       "generator for fan",
       "generator for light",
       "portable generator",
@@ -40,7 +40,7 @@
     "quality": "standard",
     "quantity": 10,
     "image": "laptop_basic.png",
-    "price":"350000",
+    "price": 350000,
     "synonyms": [
       "laptop",
       "computer",
@@ -73,7 +73,7 @@
     "quality": "high performance",
     "quantity": 4,
     "image": "laptop_design.png",
-    "price":"800,000",
+    "price": 800000,
     "synonyms": [
       "design laptop",
       "graphics laptop",
@@ -107,7 +107,7 @@
     "quality": "durable",
     "quantity": 7,
     "image": "freezer_small.png",
-    "price":"150,000",
+    "price": 150000,
     "synonyms": [
       "small freezer",
       "mini freezer",
@@ -141,7 +141,7 @@
     "quality": "heavy duty",
     "quantity": 5,
     "image": "freezer_large.png",
-    "price":"750,000",
+    "price": 750000,
     "synonyms": [
       "large freezer",
       "big freezer",
@@ -174,7 +174,7 @@
     "quality": "standard",
     "quantity": 12,
     "image": "tv_led.png",
-    "price":"250,000",
+    "price": 250000,
     "synonyms": [
       "tv",
       "television",
@@ -200,4 +200,3 @@
     "tags": ["home", "entertainment", "electronics"]
   }
 ]
-

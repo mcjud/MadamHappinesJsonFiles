@@ -1,89 +1,23 @@
-{
-  "items": [
-    {
-      "id": "gen_small_001",
-      "name": "Small Generator",
-      "category": "power",
-      "size": "small",
-      "quality": "fuel efficient",
-      "quantity": 6,
-      "price": "32000",
-      "synonyms": [
-        "small generator","mini generator","home generator","generator for house",
-        "generator for room","small gen","light generator","generator for TV",
-        "generator for fan","generator for light","portable generator",
-        "small petrol generator","generator for apartment","backup generator",
-        "small power generator","generator for fridge","low noise generator",
-        "generator for home use","personal generator"
-      ],
-      "tags": ["home","electricity","fuel","backup"]
-    },
-    {
-      "id": "laptop_basic_001",
-      "name": "Basic Laptop",
-      "category": "computer",
-      "quality": "standard",
-      "quantity": 10,
-      "price": "350000",
-      "synonyms": [
-        "laptop","computer","portable computer","office laptop","student laptop",
-        "work laptop","school computer","business laptop","simple laptop",
-        "normal laptop","windows laptop","laptop for typing","laptop for work",
-        "laptop for browsing","laptop for office use","everyday laptop",
-        "basic computer","laptop for documents","home laptop","personal laptop"
-      ],
-      "tags": ["office","school","work","computer"]
-    },
-    {
-      "id": "laptop_design_001",
-      "name": "Design Laptop",
-      "category": "computer",
-      "quality": "high performance",
-      "quantity": 4,
-      "price": "800000",
-      "synonyms": [
-        "design laptop","graphics laptop","computer for design","laptop for graphics",
-        "laptop for editing","laptop for blender","laptop for photoshop",
-        "laptop for video editing","high performance laptop","powerful laptop",
-        "creative laptop","laptop for creators","designer computer",
-        "graphics computer","laptop for rendering","laptop for 3d",
-        "workstation laptop","media laptop","professional laptop",
-        "laptop for animation"
-      ],
-      "tags": ["design","graphics","editing","professional"]
-    },
-    {
-      "id": "frz_small_001",
-      "name": "Small Freezer",
-      "category": "home appliance",
-      "size": "small",
-      "quality": "durable",
-      "quantity": 7,
-      "price": "150000",
-      "synonyms": [
-        "small freezer","mini freezer","home freezer","freezer for house",
-        "freezer for room","freezer for drinks","small deep freezer","compact freezer",
-        "freezer for apartment","freezer for bedroom","personal freezer",
-        "freezer for ice","freezer for home use","small freezer box","light freezer",
-        "freezer for kitchen","domestic freezer","small chest freezer"
-      ],
-      "tags": ["home","food","electricity"]
-    },
-    {
-      "id": "tv_standard_001",
-      "name": "LED TV",
-      "category": "electronics",
-      "quality": "standard",
-      "quantity": 12,
-      "price": "250000",
-      "synonyms": [
-        "tv","television","led tv","flat screen tv","smart tv","tv for home",
-        "tv for room","tv for sitting room","tv screen","home television",
-        "tv for movies","tv for football","tv for netflix","television screen",
-        "tv for family","tv for watching","lcd tv","tv set","color tv"
-      ],
-      "tags": ["home","entertainment","electronics"]
-    }
-  ]
-}
-
+[
+  {
+    "id": "gen_small_001",
+    "name": "Small Generator",
+    "category": "power",
+    "size": "small",
+    "quality": "fuel efficient",
+    "quantity": 6,
+    "price":"32000",
+    "synonyms": ["small generator","mini generator","home generator"],
+    "tags": ["home","electricity","fuel","backup"]
+  },
+  {
+    "id": "laptop_basic_001",
+    "name": "Basic Laptop",
+    "category": "computer",
+    "quality": "standard",
+    "quantity": 10,
+    "price":"350000",
+    "synonyms": ["laptop","computer","portable computer"],
+    "tags": ["office","school","work","computer"]
+  }
+]

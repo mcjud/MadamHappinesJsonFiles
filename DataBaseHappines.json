@@ -6338,26 +6338,6 @@
     ]
   },
   {
-    "id": 115,
-    "name": "RGB Fill Light VL-68RGD 20,000",
-    "category": "lighting",
-    "condition": "New",
-    "estimated_price_ngn": 20000,
-    "description": "A versatile RGB fill light VL-68RGD for creative photography and videography, offering a wide spectrum of colors and brightness levels.",
-    "keywords": {
-      "fill_light": 1.0,
-      "rgb_light": 0.95,
-      "vl_68rgd": 0.9,
-      "creative_lighting": 0.9,
-      "video_production": 0.85
-    },
-    "customer_search_examples": [
-      "RGB fill light",
-      "VL-68RGD",
-      "Creative video light"
-    ]
-  },
-  {
     "id": 116,
     "name": "Zealot Wireless Speaker S76 80,000",
     "category": "audio",
@@ -11778,6 +11758,7 @@
     ]
   }
  ]
+
 
 
 
